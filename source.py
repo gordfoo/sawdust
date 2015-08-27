@@ -1,4 +1,9 @@
 import numpy as np
+import csv
+
+master_data = np.zeroes()
+
+
 
 raw_word_table = {}
 
